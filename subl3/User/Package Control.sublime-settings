@@ -10,6 +10,7 @@
 		"ConvertToUTF8",
 		"Deviot (Arduino IDE)",
 		"Git",
+		"Jedi - Python autocompletion",
 		"Markdown Extended",
 		"MarkdownEditing",
 		"OmniMarkupPreviewer",
@@ -18,6 +19,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-pylint",
+		"Sync Settings",
 		"YcmdCompletion"
 	]
 }
