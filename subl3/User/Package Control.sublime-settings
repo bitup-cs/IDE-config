@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Deviot (Arduino IDE)",
+		"Git",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"YcmdCompletion"
+	]
+}
